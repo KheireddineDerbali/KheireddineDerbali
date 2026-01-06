@@ -2,7 +2,6 @@
 
 ### Software Engineer | Full-Stack & Cloud Enthusiast
 
-I build **scalable, maintainable, and high-performance applications** with experience across backend systems, modern frontends, cloud platforms, and AI tools.
 
 ---
 
